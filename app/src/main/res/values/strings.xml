@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fragment</string>
+
+    <string name="str_fragment">
+            What is Past Simple ?
+        \n\n\n
+            The simple past is a verb tense that is used to talk about things that happened or existed before now.
+        \n\n
+            Wolfgang entered a hula hoop contest.
+        \n\n
+            He won the silver medal.
+    </string>
+    <string name="show">Show</string>
+</resources>
